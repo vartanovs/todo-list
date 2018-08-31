@@ -1,5 +1,5 @@
 # To Do List Project
-A responsive to-do list web application built to keep track of a single list of tasks
+A responsive To Do List web application built to keep track of a single list of tasks
 This project was written in JavaScript with jQuery, HTML and CSS
 
 ## How To Use
